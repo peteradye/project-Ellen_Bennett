@@ -10,6 +10,8 @@
 
 ## Introduction
 
+   The aim of this project is to estimate Pi using various simulations, and to then choose an optimal method. In total we trial nine different methods, eight of which involve Monte Carlo simulations. Four of these methods are simulated using **Mathematica**, and the remaining five are simulated using **R**.
+
 ## Installation Instructions
 ### Mathematica
 ### R
