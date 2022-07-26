@@ -10,7 +10,7 @@
 
 ## Introduction
 
-   The aim of this project is to estimate Pi using various simulations, and to then choose an optimal method. In total we trial nine different methods, eight of which involve Monte Carlo simulations. Four of these methods are simulated using **Mathematica**, and the other five are simulated using **R**.
+   The aim of this project is to estimate Pi using various simulations, and to then choose an optimal method. In total we trial nine different methods, eight of which involve Monte Carlo simulations. Four of these methods are simulated using **Wolfram Mathematica 13.0**, and the other five are simulated using **R**.
    
    Here is an example of one of the Monte Carlo methods:
   
@@ -18,6 +18,8 @@
 
 ## Installation Instructions
 ### Mathematica
+
+The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html). 
 ### R
 ### Required Packages
 
