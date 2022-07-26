@@ -10,7 +10,7 @@
 
 ## Introduction
 
-   The aim of this project is to estimate Pi using a variety of techniques with the ultimate goal of finding the optimal method. In total, nine different methods were trialed, eight of which used Monte Carlo Simulation. Four of these methods were simulated using **Wolfram Mathematica 13.0**, with the rest  using **R**.
+   The aim of this project is to estimate Pi using a variety of techniques with the ultimate goal of finding an optimal method. In total, nine different methods were trialed, eight of which involved Monte Carlo Simulation. Four of these methods were simulated using **Wolfram Mathematica 13.0**, while the rest were performed in **R**.
    
    Here is an example of one of the Monte Carlo methods:
   
