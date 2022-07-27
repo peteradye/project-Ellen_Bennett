@@ -25,9 +25,9 @@ The Mathematica notebook *Estmating_Pi.nb* contains four different simulations t
 
 The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
-The notebook can be downloaded by going to this [**webpage**](https://github.com/ACM40960/project-Ellen_Bennett/blob/main/Estimating_Pi.nb) and clicking the download button on the right hand side. 
+The ZIP file containing the notebook can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/download_notebook.png" width = "500"/>
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/download_code.png" width = "500"/>
 
 Once the notebook has been downloaded it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
 
