@@ -25,9 +25,15 @@ The Mathematica notebook *Estmating_Pi.nb* contains four different simulations t
 
 The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
-The notebook can be downloaded by going to this [**webpage**](https://github.com/ACM40960/project-Adye-Curran/blob/main/Estimating_Pi.nb) and clicking the download button. 
+The notebook can be downloaded by going to this [**webpage**](https://github.com/ACM40960/project-Adye-Curran/blob/main/Estimating_Pi.nb) and clicking the download button on the right hand side. 
 
 ![Downloading the Mathematica notebook](https://github.com/ACM40960/project-Adye-Curran/blob/main/download_notebook.png)
+
+Once the notebook has been downloaded, it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
+
+![Opening Mathematica](https://github.com/ACM40960/project-Adye-Curran/blob/main/mathematica_menu.png)
+
+The notebook is divided into seven sections, and each is divided into various subsections.
 
  
 ### R
