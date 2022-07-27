@@ -53,10 +53,10 @@ This is a guide on running the notebook. Certain subsections take up to 30 minut
 
 Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. The titles of the subsections containing these functions are:
 
-- **1.1. Archimedes' Method - Illustrating the Approximation Method Using a Manipulate Function**
-- **2.2. Quadrant Method - Demonstrate the Method Using a Manipulate Function**
-- **3.1. Gamma Function Integral Method - Function to Demonstrate Method**
-- **4.1. Gregory-Leibniz Series Method - Function to Demonstrate Method**
+- **1.1. Archimedes' Method** - *Illustrating the Approximation Method Using a Manipulate Function*
+- **2.2. Quadrant Method** - *Demonstrate the Method Using a Manipulate Function*
+- **3.1. Gamma Function Integral Method** - *Function to Demonstrate Method*
+- **4.1. Gregory-Leibniz Series Method** - *Function to Demonstrate Method*
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/functions.png" width = "500" />
 
