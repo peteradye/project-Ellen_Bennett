@@ -34,11 +34,11 @@ Once the notebook has been downloaded it can be opened on your computer by runni
 
 <img src="https://github.com/ACM40960/project-Adye-Curran/blob/main/mathematica_menu.png" width = "500"/>
 
-The notebook is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
+The notebook is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
 
   <img src="https://github.com/ACM40960/project-Adye-Curran/blob/main/notebook_layout.png" width = "500" />
 
-It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica).
+The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica).
   
 
  
