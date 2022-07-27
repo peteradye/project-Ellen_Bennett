@@ -51,7 +51,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
 
 This is a guide on running the notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. 
 
-Sections 1 to 4 feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. The titles of the subsections containing these functions are:
+Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. The titles of the subsections containing these functions are:
 
 - **1.1. Archimedes' Method - Illustrating the Approximation Method Using a Manipulate Function**
 - **2.2. Quadrant Method - Demonstrate the Method Using a Manipulate Function**
@@ -59,5 +59,7 @@ Sections 1 to 4 feature a function that demonstrates the simulation method to th
 - **4.1. Gregory-Leibniz Series Method - Function to Demonstrate Method**
 
 <img src="https://github.com/ACM40960/project-Adye-Curran/blob/main/functions.png" width = "500" />
+
+Sections 5 to 7 contain code that was used to create error plots, relative difference plots, and convergence plots for the project. By default the code is set to produce plots of the **Gamma Function Integral Method**, as its Monte Carlo Simulations take the shortest amount of time to run (5 minutes).
 
 ### R
