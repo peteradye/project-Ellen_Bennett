@@ -4,7 +4,7 @@
   - [Mathematica Notebook](https://github.com/ACM40960/project-Adye-Curran#mathematica-notebook)
   - [R](https://github.com/ACM40960/project-Adye-Curran#r)
 - [**Running Code**](https://github.com/ACM40960/project-Adye-Curran#running-code)
-  - [Mathematica](https://github.com/ACM40960/project-Adye-Curran#mathematica-1)
+  - [Mathematica](https://github.com/ACM40960/project-Adye-Curran#mathematica)
   - [R](https://github.com/ACM40960/project-Adye-Curran#r-1)
 ## Introduction
 
@@ -38,7 +38,7 @@ The notebook is divided into seven sections, each of which is split into various
 
   <img src="https://github.com/ACM40960/project-Adye-Curran/blob/main/notebook_layout.png" width = "500" />
 
-It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica-1).
+It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica).
   
 
  
