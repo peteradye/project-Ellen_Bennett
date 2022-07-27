@@ -49,9 +49,11 @@ It is advised not to run the entire notebook due to its run time, and instead to
 ## Running Code
 ### Mathematica Notebook
 
-This is a guide on running the notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. 
+This is a guide on running the notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
 
-Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. The titles of the subsections containing these functions are:
+Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. 
+
+The titles of the subsections containing these functions are:
 
 - ***1.1. Archimedes' Method*** - *Illustrating the Approximation Method Using a Manipulate Function*
 - ***2.2. Quadrant Method*** - *Demonstrate the Method Using a Manipulate Function*
