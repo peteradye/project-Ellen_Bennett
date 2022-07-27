@@ -10,7 +10,7 @@
 
    The aim of this project is to estimate Pi using a variety of techniques with the ultimate goal of finding an optimal method. In total, nine different methods were trialed, eight of which involved Monte Carlo Simulation. Four of these methods were simulated using **Wolfram Mathematica 13.0**, while the rest were performed in **R**.
    
-   Here is an example of one of the Monte Carlo methods:
+   Here is an example of one of the Monte Carlo methods involving a circle quadrant inside of a square:
   
    <img src="https://github.com/ACM40960/project-EllenBennett/blob/main/gif_of_quadrant_method.gif" width="300" height="275"/>
 
@@ -38,7 +38,9 @@ The notebook is divided into seven sections, each of which is split into various
 
   <img src="https://github.com/ACM40960/project-Adye-Curran/blob/main/notebook_layout.png" width = "500" />
 
-The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica).
+The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
+
+It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Adye-Curran#mathematica).
   
 
  
