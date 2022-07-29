@@ -56,6 +56,11 @@ R Studio is a great IDE that was used to write the code in and can be downloaded
 
 Note that only base R functionality was used and no further packages need to be installed!
 
+Again, The ZIP file containing all project items including the R script can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
+
+Once the script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
+
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/notebook_layout.png" width = "500" />
 
 ## Running Code
 ### Mathematica Notebook
