@@ -54,7 +54,7 @@ The R script *Estimating_Pi.R* contains the code to run five different monte car
 
 ***"R is a programming language for statistical computing and graphics"***
 
-R can be installed via the following link: *https://cran.ma.imperial.ac.uk/*
+It be installed freely via the following link: *https://cran.ma.imperial.ac.uk/*
 R Studio is a great IDE that was used to write the code in and can be downloaded here: *https://www.rstudio.com/products/rstudio/download/*
 
 Note that only base R functionality was used and no further packages need to be installed!
