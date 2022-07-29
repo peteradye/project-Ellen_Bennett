@@ -1,10 +1,10 @@
 ## Table of Contents
 - [**Introduction**](https://github.com/ACM40960/project-Ellen_Bennett#introduction)
 - [**Installation Instructions**](https://github.com/ACM40960/project-Ellen_Bennett#installation-instructions)
-  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook)
+  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica)
   - [R](https://github.com/ACM40960/project-Ellen_Bennett#r)
 - [**Running Code**](https://github.com/ACM40960/project-Ellen_Bennett#running-code)
-  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook-1)
+  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook)
   - [R](https://github.com/ACM40960/project-Ellen_Bennett#r-1)
 ## Introduction
 
@@ -43,7 +43,7 @@ The notebook is divided into seven sections, each of which is split into various
 
 The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
 
-It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook-1).
+It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook).
   
 ### R
 
