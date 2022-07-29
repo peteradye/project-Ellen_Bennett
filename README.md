@@ -1,11 +1,11 @@
 ## Table of Contents
 - [**Introduction**](https://github.com/ACM40960/project-Ellen_Bennett#introduction)
 - [**Installation Instructions**](https://github.com/ACM40960/project-Ellen_Bennett#installation-instructions)
-  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica)
+  - [Mathematica](https://github.com/ACM40960/project-Ellen_Bennett#mathematica)
   - [R](https://github.com/ACM40960/project-Ellen_Bennett#r)
 - [**Running Code**](https://github.com/ACM40960/project-Ellen_Bennett#running-code)
   - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook)
-  - [R](https://github.com/ACM40960/project-Ellen_Bennett#r-1)
+  - [R Script](https://github.com/ACM40960/project-Ellen_Bennett#r-script)
 ## Introduction
 
    The aim of this project is to estimate Pi using a variety of techniques with the ultimate goal of finding an optimal method. In total, nine different methods were trialed, eight of which involved Monte Carlo Simulation. Four of these methods were simulated using **Wolfram Mathematica 13.0**, while the rest were performed in **R**.
