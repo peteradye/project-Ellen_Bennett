@@ -70,7 +70,7 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 ## Running Code
 
-Note: There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
+**Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
 ### Mathematica Notebook
 
@@ -105,7 +105,7 @@ The 5 methods are once again:
 To run a section, simply highlight all code from the top to the bottom of the section and run.
 Note: The start and end of each section are cleary commented for convenience (See below):
 
-After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running "N_pi_est_{insert question letter here}" for example "N_pi_est_b".
+After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running `N_pi_est_{insert question letter here}` for example `N_pi_est_b`.
 
 <p float="left">
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "450" height = "300" />
