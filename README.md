@@ -51,9 +51,10 @@ The R script ** contains the code to run five different monte carlo simulation m
 4. Standard Normal Distribution Integral
 5. Coin Toss on Grid
 
+R can be installed via the following link: *https://cran.ma.imperial.ac.uk/*
+R Studio is a great IDE that was used to write the code in and can be downloaded here: *https://www.rstudio.com/products/rstudio/download/*
 
-
-
+Note that only base R functionality was used and no further packages need to be installed!
 
 
 ## Running Code
