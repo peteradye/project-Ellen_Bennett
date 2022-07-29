@@ -10,14 +10,14 @@
 
    The aim of this project is to estimate Pi using a variety of techniques with the ultimate goal of finding an optimal method. In total, nine different methods were trialed, eight of which involved Monte Carlo Simulation. Four of these methods were simulated using **Wolfram Mathematica 13.0**, while the rest were performed in **R**.
    
-   Here is an example of one of the Monte Carlo methods involving a circle quadrant inside of a square:
+   One such method is demonsstrated visually below. By dropping many random points on the quadrant and counting the proportion that land inside the quarter circle, one can esimate Pi by multiplying this proportion by four. (as the actual proportion of the total area this region encapsulates is Pi/4)
   
    <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/gif_of_quadrant_method.gif" width="300" height="275"/>
 
 ## Installation Instructions
 ### Mathematica Notebook
 
-The Mathematica notebook *Estmating_Pi.nb* contains four different simulations that estimate Pi. These are:
+The Mathematica notebook *Estimating_Pi.nb* contains four different simulations that estimate Pi. These are:
 1. Archimedes' Method
 2. Quadrant Method
 3. Gamma Function Integral
