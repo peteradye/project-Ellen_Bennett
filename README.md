@@ -12,7 +12,7 @@
    
    One such method is demonstrated visually below. By dropping many random points on the square and counting the proportion landing inside the quarter circle, one can esimate Pi by multiplying this proportion by four. This is because the true proportion of the total area this region covers is Pi/4.
    
-   This README file will detail how to run code to reproduce each of these simulation techniques. First install annd download relevant softwares and scripts via "Installation Instructions" before reading the "Running Code" section.
+   This README file will detail how to run code to reproduce the results of each of the simulation techniques. First install annd download relevant softwares and scripts via "Installation Instructions" before reading the "Running Code" section.
   
    <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
 
@@ -20,7 +20,7 @@
 
 ### Mathematica
 
-The Mathematica notebook *Estimating_Pi.nb* contains four different simulations that estimate Pi. These are:
+The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* contains code to run the following four simulations methods:
 1. Archimedes' Method
 2. Quadrant Method
 3. Gamma Function Integral
@@ -47,7 +47,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
   
 ### R
 
-The R script *Estimating_Pi.R* contains the code to run five different monte carlo simulations to estimate Pi namely:
+The R script *Estimating_Pi.R* in the folder *R Scripts* contains the code to run five different monte carlo simulations to estimate Pi namely:
 
 1. Buffon's Experiment
 2. Quarter Circle Integral
