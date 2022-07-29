@@ -42,9 +42,19 @@ The first four sections contain code pertaining to their relevant simulation met
 
 It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook-1).
   
-
- 
 ### R
+
+The R script ** contains the code to run five different monte carlo simulation methods to estimate Pi namely:
+1. Buffon's Experiment
+2. Quarter Circle Integral
+3. Bernoulli Numbers Generating Function Integral
+4. Standard Normal Distribution Integral
+5. Coin Toss on Grid
+
+
+
+
+
 
 ## Running Code
 ### Mathematica Notebook
