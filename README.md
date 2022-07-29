@@ -60,7 +60,7 @@ Again, The ZIP file containing all project items including the R script can be d
 
 Once the script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/notebook_layout.png" width = "500" />
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/Open_R_Script.png" width = "500" />
 
 ## Running Code
 ### Mathematica Notebook
