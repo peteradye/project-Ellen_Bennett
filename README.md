@@ -103,7 +103,7 @@ The 5 methods are once again:
 5. Coin Toss on Grid
 
 To run a section, simply highlight all code from the top to the bottom of the section and run.
-Note: The start and end of each section are cleary commented for convenience (See below):
+Note: The start and end of each section are clearly commented for convenience (See below):
 
 After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running `N_pi_est_{insert question letter here}` for example `N_pi_est_b`.
 
