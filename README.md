@@ -12,7 +12,7 @@
    
    One such method is demonstrated visually below. By dropping many random points on the square and counting the proportion landing inside the quarter circle, one can esimate Pi by multiplying this proportion by four. This is because the true proportion of the total area this region covers is Pi/4.
   
-   <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/gif_of_quadrant_method.gif" width="300" height="275"/>
+   <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
 
 ## Installation Instructions
 
@@ -28,16 +28,16 @@ The notebook was created using **Wolfram Mathematica 13.0**, which can be instal
 
 The ZIP file containing the notebook can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/download_code.png" width = "500"/>
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/download_code.png" width = "500"/>
 
 Once the notebook has been downloaded it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
 
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/mathematica_menu.png" width = "500"/>
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/mathematica_menu.png" width = "500"/>
 
 The notebook is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
 
-  <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/notebook_layout.png" width = "500" />
+  <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/notebook_layout.png" width = "500" />
 
 The first four sections contain code pertaining to their relevant simulation method, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
 
@@ -63,7 +63,7 @@ Again, The ZIP file containing all project items (including the R script) can be
 
 Once the script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/Open_R_Script.png" width = "500" />
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
 
 ## Running Code
 ### Mathematica Notebook
@@ -79,7 +79,7 @@ The titles of the subsections containing these functions are:
 - ***3.1. Gamma Function Integral Method*** - *Function to Demonstrate Method*
 - ***4.1. Gregory-Leibniz Series Method*** - *Function to Demonstrate Method*
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/functions.png" width = "500" />
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/functions.png" width = "500" />
 
 Sections 5 to 7 contain code that was used to create error plots, relative difference plots, and convergence plots for the project. By default the code is set to produce plots of the **Gamma Function Integral Method**, as its Monte Carlo Simulations take the shortest amount of time to run (5 minutes).
 
