@@ -88,13 +88,13 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 
 ### R Script
 
-This is a guide to running the R script to simulate using the 5 associated methods. 
+This is a guide to running the R script which can simulate Pi using each of the 5 associated methods. 
 Each method should be ran individually and has a runtime of no longer than 5 minutes.
 
-Simply highlight all code from top of each section to the bottom of the section and run.
+To run a section, simply highlight all code from the top to the bottom of the section and run.
 Note: The start and end of each section are cleary commented for convenience (See below):
 
-After running each section, you will reproduce the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points. You can also retrieve the numeric estimates by running "N_pi_est_{insert q letter here}" for example "N_pi_est_b".
+After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running "N_pi_est_{insert question letter here}" for example "N_pi_est_b".
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "400" />
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "400" />
