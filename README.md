@@ -69,6 +69,9 @@ Once the script has been downloaded, it can be opened on your computer by right 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
 
 ## Running Code
+
+Note: There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
+
 ### Mathematica Notebook
 
 This is a guide on running the notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
