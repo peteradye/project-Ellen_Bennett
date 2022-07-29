@@ -91,6 +91,14 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 This is a guide to running the R script which can simulate Pi using each of the 5 associated methods. 
 Each method should be ran individually and has a runtime of no longer than 5 minutes.
 
+The 5 methods are once again:
+
+1. Buffon's Experiment
+2. Quarter Circle Integral
+3. Bernoulli Numbers Generating Function Integral
+4. Standard Normal Distribution Integral
+5. Coin Toss on Grid
+
 To run a section, simply highlight all code from the top to the bottom of the section and run.
 Note: The start and end of each section are cleary commented for convenience (See below):
 
