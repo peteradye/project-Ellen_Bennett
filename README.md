@@ -15,7 +15,8 @@
    <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/gif_of_quadrant_method.gif" width="300" height="275"/>
 
 ## Installation Instructions
-### Mathematica Notebook
+
+### Mathematica
 
 The Mathematica notebook *Estimating_Pi.nb* contains four different simulations that estimate Pi. These are:
 1. Archimedes' Method
@@ -44,19 +45,21 @@ It is advised not to run the entire notebook due to its run time, and instead to
   
 ### R
 
-The R script ** contains the code to run five different monte carlo simulation methods to estimate Pi namely:
+The R script *Estimating_Pi.R* contains the code to run five different monte carlo simulations to estimate Pi namely:
 1. Buffon's Experiment
 2. Quarter Circle Integral
 3. Bernoulli Numbers Generating Function Integral
 4. Standard Normal Distribution Integral
 5. Coin Toss on Grid
 
+***"R is a programming language for statistical computing and graphics"***
+
 R can be installed via the following link: *https://cran.ma.imperial.ac.uk/*
 R Studio is a great IDE that was used to write the code in and can be downloaded here: *https://www.rstudio.com/products/rstudio/download/*
 
 Note that only base R functionality was used and no further packages need to be installed!
 
-Again, The ZIP file containing all project items including the R script can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
+Again, The ZIP file containing all project items (including the R script) can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
 
 Once the script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
 
