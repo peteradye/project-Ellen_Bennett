@@ -46,6 +46,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
 ### R
 
 The R script *Estimating_Pi.R* contains the code to run five different monte carlo simulations to estimate Pi namely:
+
 1. Buffon's Experiment
 2. Quarter Circle Integral
 3. Bernoulli Numbers Generating Function Integral
@@ -88,8 +89,10 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 This is a guide to running the R script. 
 Each method should be ran individually and has a runtime of no longer than 5 minutes.
 
-Simply highlight all code from top of the section until it reads "END". 
-It has been commented in a fashion very easy to understand (See below):
+Simply highlight all code from top of the section to the bottom of the section and run.
+Start and end of each section are cleary commented and easy to follow (See below):
+
+After running each section, you will reproduce the convergence plots of the mean estimate of Pi and the associated confidence interval for this estimate at specific time points.
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "400" />
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "400" />
