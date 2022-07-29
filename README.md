@@ -20,12 +20,6 @@
 
 ### Mathematica
 
-The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* contains code to run the following four simulations methods:
-1. Archimedes' Method
-2. Quadrant Method
-3. Gamma Function Integral
-4. Gregory-Leibniz Series.
-
 The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
 The ZIP file containing the notebook can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
@@ -45,15 +39,9 @@ The first four sections contain code pertaining to their relevant simulation met
 
 It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook).
   
+  
+  
 ### R
-
-The R script *Estimating_Pi.R* in the folder *R Scripts* contains the code to run five different monte carlo simulations to estimate Pi namely:
-
-1. Buffon's Experiment
-2. Quarter Circle Integral
-3. Bernoulli Numbers Generating Function Integral
-4. Standard Normal Distribution Integral
-5. Coin Toss on Grid
 
 ***"R is a programming language for statistical computing and graphics"***
 
@@ -72,9 +60,18 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 **Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
+There is a single Mathematica notebook called *Estimating_Pi.nb* to run four of the methods. Five are then ran using the R script *Estimating_Pi.R*. An additional R script called *Convergence_Analysis.R* then runs the code to determine the order of convergence of each method with the aim of finding the optimal few. A final R script called *Computation_Time_Analysis.R* is used to compare the computation time of the best method(s) found by analysing accuracy and convergence in previous sections.
+
+
 ### Mathematica Notebook
 
-This is a guide on running the notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
+The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* contains code to run the following four simulations methods:
+1. Archimedes' Method
+2. Quadrant Method
+3. Gamma Function Integral
+4. Gregory-Leibniz Series.
+
+This is a guide to running this notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
 
 Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. 
 
@@ -91,16 +88,18 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 
 ### R Script
 
-This is a guide to running the R script which can simulate Pi using each of the 5 associated methods. 
-Each method should be ran individually and has a runtime of no longer than 5 minutes.
+#### Estimating_Pi.R
 
-The 5 methods are once again:
+The R script *Estimating_Pi.R* in the folder *R Code* contains the code to run the following five different monte carlo simulation methods:
 
 1. Buffon's Experiment
 2. Quarter Circle Integral
 3. Bernoulli Numbers Generating Function Integral
 4. Standard Normal Distribution Integral
 5. Coin Toss on Grid
+
+This is a guide to running the R script which can simulate Pi using each of the 5 associated methods. 
+Each method should be ran individually and has a runtime of no longer than 5 minutes.
 
 To run a section, simply highlight all code from the top to the bottom of the section and run.
 Note: The start and end of each section are clearly commented for convenience (See below):
@@ -111,4 +110,8 @@ After running each section, you will generate the convergence plots of the mean 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "450" height = "300" />
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
+
+#### Convergence_Analysis.R
+
+#### Computation_Time_Analysis.R
 
