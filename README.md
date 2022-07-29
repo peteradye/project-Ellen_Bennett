@@ -91,4 +91,5 @@ Each method should be ran individually and has a runtime of no longer than 5 min
 Simply highlight all code from top of the section until it reads "END". 
 It has been commented in a fashion very easy to understand (See below):
 
-
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "400" />
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "400" />
