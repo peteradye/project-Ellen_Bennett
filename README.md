@@ -83,4 +83,12 @@ The titles of the subsections containing these functions are:
 
 Sections 5 to 7 contain code that was used to create error plots, relative difference plots, and convergence plots for the project. By default the code is set to produce plots of the **Gamma Function Integral Method**, as its Monte Carlo Simulations take the shortest amount of time to run (5 minutes).
 
-### R
+### R Script
+
+This is a guide to running the R script. 
+Each method should be ran individually and has a runtime of no longer than 5 minutes.
+
+Simply highlight all code from top of the section until it reads "END". 
+It has been commented in a fashion very easy to understand (See below):
+
+
