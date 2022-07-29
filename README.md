@@ -108,7 +108,7 @@ Note: The start and end of each section are cleary commented for convenience (Se
 After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running "N_pi_est_{insert question letter here}" for example "N_pi_est_b".
 
 <p float="left">
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "400" height = "300" />
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "400" height = "300"/>
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "450" height = "300" />
+<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
 
