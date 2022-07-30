@@ -28,7 +28,6 @@ The ZIP file containing the notebook can be downloaded by clicking on the green 
 
 Once the notebook has been downloaded it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
 
-
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/mathematica_menu.png" width = "500"/>
 
 The notebook is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
@@ -56,11 +55,13 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
 
+
+
 ## Running Code
 
 **Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
-There is a single Mathematica notebook called *Estimating_Pi.nb* to run four of the methods. Five are then ran using the R script *Estimating_Pi.R*. An additional R script called *Convergence_Analysis.R* then runs the code to determine the order of convergence of each method with the aim of finding the optimal few. A final R script called *Computation_Time_Analysis.R* is used to compare the computation time of the best method(s) found by analysing accuracy and convergence in previous sections.
+There is a single Mathematica notebook called *Estimating_Pi.nb* to run four of the methods. Five are then ran using the R script *Estimating_Pi.R*. An additional R script called *Convergence_Analysis.R* then runs code to determine the convergence of each method with the aim of finding an optimal few. A final R script called *Computation_Time_Analysis.R* is finally used to compare the computation time of the best method(s) from previous analysis.
 
 
 ### Mathematica Notebook
